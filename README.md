@@ -2,7 +2,7 @@
 
 ## **Welcome to My First Agentic Project\!**
 
-This is one of my first major projects, created as a way to learn and demonstrate how to connect Google's Gemini AI with other powerful APIs like Google Search and Gmail. I'm excited to share my learning process\! As this is a demo, please keep in mind the disclaimer below.
+This is one of my first major agentic projects, created as a way to learn and demonstrate how to connect Google's Gemini AI with other powerful APIs like Google Search and Gmail. I'm excited to share my learning process\! As this is a demo, please keep in mind the disclaimer below.
 
 This project is a demonstration of a multi-tool AI agent built with the **Google Gemini API** (gemini-2.5-flash) and Python. This agent can hold a conversation, understand when to use external tools to gather live information, and perform actions like drafting emails based on its findings.
 
