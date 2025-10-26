@@ -2,7 +2,7 @@
 
 ## **Welcome to My First Agentic Project\!**
 
-This is one of my first major agentic projects, created as a way to learn and demonstrate how to connect Google's Gemini AI with other powerful APIs like Google Search and Gmail. I'm excited to share my learning process\! As this is a demo, please keep in mind the disclaimer below.
+This is one of my first major projects, created as a way to learn and demonstrate how to connect Google's Gemini AI with other powerful APIs like Google Search and Gmail. I'm excited to share my learning process\! As this is a demo, please keep in mind the disclaimer below.
 
 This project is a demonstration of a multi-tool AI agent built with the **Google Gemini API** (gemini-2.5-flash) and Python. This agent can hold a conversation, understand when to use external tools to gather live information, and perform actions like drafting emails based on its findings.
 
@@ -55,7 +55,7 @@ pip install google-generativeai google-api-python-client google-auth-oauthlib go
 
 ### **3\. Set Up Credentials (Local Only)**
 
-To run this demo, you must add your own private credentials.
+To run this demo, you must add your own private credentials you can get them from google cloud.
 
 A. Edit the Notebook:  
 Open the Google Search\_API \- Copy.ipynb file. In the very first code cell, replace the placeholder strings with your actual API keys:  
